@@ -5,7 +5,8 @@
     "scalar-rabbit.json",
     "catshitckers.json",
     "scalar-sheltie.json",
-    "scalar-stickman.json"
+    "scalar-stickman.json",
+    "pusheen1.json"
   ],
   "homeserver_url": "https://matrix-synapse.mit.edu"
 }
