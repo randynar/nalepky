@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "scalar-loading_artist.json",
+    "catcat.json",
+    "scalar-rabbit.json",
+    "catshitckers.json",
+    "scalar-sheltie.json",
+    "scalar-stickman.json"
+  ],
+  "homeserver_url": "https://matrix-synapse.mit.edu"
+}
