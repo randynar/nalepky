@@ -1,10 +1,11 @@
 {
   "packs": [
-    "ufoludek_hate.json",
     "catshitckers.json",
     "CerealGuy.json",
     "brokencatsstickers.json",
-    "a175588290_by_Micha3lo_1.json"
+    "a175588290_by_Micha3lo_1.json",
+    "ufoludek_hate.json",
+    "thonkang.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
